@@ -1,0 +1,3 @@
+module.exports=[19325,a=>{a.n(a.i(62925))},43619,a=>{a.n(a.i(79962))},13718,a=>{a.n(a.i(85523))},18198,a=>{a.n(a.i(45518))},62212,a=>{a.n(a.i(66114))},65127,a=>{"use strict";var b=a.i(7997);function c(){return(0,b.jsxs)("main",{style:{padding:"40px",textAlign:"center"},children:[(0,b.jsx)("h1",{children:"Cartyr"}),(0,b.jsx)("p",{children:"Modern restaurant digital menus."})]})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=_db72e53e._.js.map
